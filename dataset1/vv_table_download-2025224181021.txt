@@ -1,3 +1,4 @@
+# Variant ID	Location	Variant type	Gene	Molecular consequences	Most 
 rs761448939	943995	single nucleotide variant	NOC2L and 5 more	,missense variant,nonsense (stop gained),500B downstream variant,	pathogenic				
 rs7417106	976215	single nucleotide variant	PLEKHN1 and 7 more	,missense variant,500B downstream variant,	pathogenic	A=0.289736		A=0.228846	
 rs786201005	1014143	single nucleotide variant	ISG15 and 1 more	,nonsense (stop gained)	pathogenic				25307056
